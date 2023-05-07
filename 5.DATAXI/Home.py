@@ -1,8 +1,7 @@
 import pandas as pd
 import streamlit as st
 from PIL import Image
-import plotly.graph_objs as go
-import plotly.express as px
+
 
 # import utils.paths as path 
 st.set_page_config(page_title="Dashboard", page_icon=":car:", layout="wide")
