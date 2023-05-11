@@ -1,14 +1,15 @@
-# <h1>Pj_05-003 Análisis de mercado para evaluar la viabilidad de la incorporación de vehículos eléctricos en el servicio de taxis en la ciudad de Nueva York. </h1> 
+# <h1>Pj_05-003 Desarrollo de un MVP para evaluar la viabilidad de la incorporación de vehículos eléctricos en el servicio de taxis en la ciudad de Nueva York. </h1> 
+
 ## **HENRY BOOTCAMP | Proyecto Final**
 <hr>
 
-*El presente proyecto se desarrolla como el proyecto final del Bootcamp de Data Science de [Soy Henry](https://www.soyhenry.com/). Busca analizar la situación del mercado de taxis en New York.  https://www.youtube.com/watch?v=ewDlLPiMFlo&feature=youtu.be*  
+*El presente proyecto se desarrolla como el proyecto final del Bootcamp de Data Science de [Soy Henry](https://www.soyhenry.com/). Busca analizar la situación del mercado de taxis en New York a través del MVP de una aplicación web.  https://www.youtube.com/watch?v=ewDlLPiMFlo&feature=youtu.be*  
 
 # 1. Introducción
 
 Se lleva a cabo un análisis del sector de transporte público en los taxis amarillos de la ciudad de Nueva York con el fin de evaluar la viabilidad de invertir en tecnologías sostenibles como la implementación de flotas de vehículos eléctricos. Se analizan datos en NYC de los sonidos registrados por el tráfico, la contaminación en el aire, el movimiento de vehículos por zona y los viajes que realizan los taxis en la ciudad para  los 5 Boroughs (distritos) de New York: **Manhattan, Brooklyn, Queens, The Bronx & Staten Island**.<br>
 
-Se implementa un modelo de Machine Learning  para estimar tendencias a futuro de los principales indicadores. Se realiza un Dashboard para la visualización de los datos y resultados obtenidos. <br>
+Se integra un modelo de Machine Learning  para estimar tendencias a futuro de los principales indicadores,  un Dashboard para la visualización de los datos y resultados obtenidos en una aplicación en Streamlit denominada [Dataxi](https://lucianolarrea-pf-ds-home-f5yrsh.streamlit.app/). <br>
 
 El proyecto se ejecuta bajo metodología ágil Scrum y se desarrolla en cuatro etapas.<br>
 **Etapa 1:** Recopilación de los datos, **Etapa 2:** Creación de base de datos, **Etapa 3:** Análisis Económico, KPIs y **Etapa 4:** Modelo ML. <br>
@@ -85,7 +86,7 @@ Se genera un análisis económico con las proyecciones realizadas al sector y pu
 
 ## 5.3 App
 
-Se desarrolla una app que contiene tanto el modelo ML como un dashboard de visualización de datos en Power Bi embebidos para generar métricas y los KPIs establecidos en función al número de vehículos eléctricos que el usuario seleccione.<br>
+Se desarrolla un MVP para una app que contiene tanto el modelo ML como un dashboard de visualización de datos en Power Bi embebidos para generar métricas y los KPIs establecidos en función al número de vehículos eléctricos que el usuario seleccione.<br>
 
 El nombre de la app es **Dataxi** y puede ser consultada en: [Dataxi](https://lucianolarrea-pf-ds-home-f5yrsh.streamlit.app/)<br>
 
