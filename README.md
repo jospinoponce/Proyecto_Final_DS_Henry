@@ -96,7 +96,7 @@ El nombre de la app es **Dataxi** y puede ser consultada en: [Dataxi](https://lu
 
 <img src="src/pdf.png" width="350" height="160"/>
 
-Se puede visualizar un ejemplo de este reporte con la implementación de una flota de 1000 taxis eléctricos en:[1000_taxis.pdf](/4.REPORTS/Informe_Final.pdf) 
+Se puede visualizar un ejemplo de este reporte con la implementación de una flota de 1000 taxis eléctricos en:[1000_taxis.pdf](/4.REPORTS/3.Informe_Final.pdf) 
 
 <hr>
 

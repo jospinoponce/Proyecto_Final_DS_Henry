@@ -8,7 +8,7 @@ Viajes realizados por taxis amarillos desde el año 2010 hasta el 2023.<br>
 
  
 
-*Los scripts necesarios para el desarrollo de las actividades puede ser consultado en: [ETL.ipynb](https://github.com/francomyburg/Proyecto_grupal_DS/blob/main/1.ETL/ETL-Databricks.ipynb).* *las tablas generadas por transformaciones de manera local pueden ser consultados en:* [data_finale](https://github.com/francomyburg/Proyecto_grupal_DS/tree/main/data/finale_dataset).
+*Los scripts necesarios para el desarrollo de las actividades puede ser consultado en: [ETL.ipynb](https://github.com/francomyburg/Proyecto_grupal_DS/blob/main/1.ETL/ETL-Databricks.ipynb).* *las tablas generadas por transformaciones de manera local pueden ser consultados en:* [data_finale](../data/finale_dataset).
 
 ## 1. Extract
 
@@ -92,7 +92,7 @@ La tabla Ml Projected Demand corresponde al resultado del modelo de ML. Mientras
 
 ### 3.1 Carga de tablas de aspectos ambientales
 
-Se carga estos datos de manera manual, desde la ubicación local de los datos transformados [data_finale](https://github.com/francomyburg/Proyecto_grupal_DS/tree/main/data/finale_dataset).
+Se carga estos datos de manera manual, desde la ubicación local de los datos transformados [data_finale](../data/finale_dataset).
 
 ### 3.2 Carga de tabla de viajes de taxis
 
