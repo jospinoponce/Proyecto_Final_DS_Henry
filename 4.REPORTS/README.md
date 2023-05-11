@@ -20,13 +20,13 @@ La correlación entre el trafico y la contaminación por PM es del 35%. Se gener
 
 <img src="source/gradio.png" width="300" height="260"/>
 
-Los cálculos a detalle pueden ser consultados en [calculator_pm.ipynb](https://github.com/francomyburg/Proyecto_grupal_DS/blob/main/4.REPORTS/calculator_pm.ipynb)
+Los cálculos a detalle pueden ser consultados en [calculator_pm.ipynb](/calculator_pm.ipynb)
 
 
 # <h1> ANALISIS FINANCIERO </h1> 
 
 Se desarrolla un dashboard en Power Bi.
-[dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTI3MDA2YWMtZGU1Mi00N2Q5LWI2ZmEtNDA0Y2M4YWIyZGE5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+[**Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNTI3MDA2YWMtZGU1Mi00N2Q5LWI2ZmEtNDA0Y2M4YWIyZGE5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 <img src="source/portada.jpg" width="500" height="300"/>
 
