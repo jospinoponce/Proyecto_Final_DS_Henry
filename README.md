@@ -43,7 +43,7 @@ La gestión del proyecto se desarrolla en:<br>
 
 Los datos se extraen de fuentes oficiales que proporciona  New York.  [**Taxi & Limousine Commission**](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) y de los datos abiertos de la ciudad [**Open_Data_NYC**](https://data.cityofnewyork.us/).<br> 
 
-*El **Diccionario de los datos** puede consultarse en [data_dict](https://github.com/francomyburg/Proyecto_grupal_DS).*
+*El **Diccionario de los datos** puede consultarse en [data_dict](https://github.com/jospinoponce/Proyecto_Final_DS_Henry/blob/main/data_dict.md).*
 
 <hr>
 
@@ -59,14 +59,14 @@ Al realizar el análisis exploratorio de los datos, se determina que:
 - Los sectores que más viajes registran son el aeropuerto EWR y Manhattan.
 - El borough con la peor calidad de aire, mayor contaminación por ruido y mayor volumen de tráfico vehicular es Manhattan. 
 
- *Los aspectos más importantes de este proceso se pueden consultar en: [ETL](https://github.com/francomyburg/Proyecto_grupal_DS/tree/main/1.ETL) y el [EDA](https://github.com/francomyburg/Proyecto_grupal_DS/tree/main/2.EDA).*<br>
+ *Los aspectos más importantes de este proceso se pueden consultar en: [ETL](https://github.com/jospinoponce/Proyecto_Final_DS_Henry/tree/main/1.ETL) y el [EDA](https://github.com/jospinoponce/Proyecto_Final_DS_Henry/tree/main/2.EDA).*<br>
 
 <hr>
 
 # 5. Resultados
 
 Se genera un informe de los impactos ambientales positivos que lleva la implementación de determinada cantidad de vehículos eléctricos para la ciudad.
-[4.REPORTS](https://github.com/francomyburg/Proyecto_grupal_DS/blob/main/4.REPORTS). <br>
+[4.REPORTS](/4.REPORTS). <br>
 
 En el presente video muestra el resultado final del proyecto [Resultado Final](https://youtu.be/ewDlLPiMFlo).
 
